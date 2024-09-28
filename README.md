@@ -8,3 +8,11 @@ This Data Analysis project aims to generate insight into the sales performance o
 ### Data Sources
 The primary source of Data utilised is Data Sale.czv and this is an open source data that can be freely downloaded from a open source online such as kaggle or FRED or any other data repository site
 
+### Tools used
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+  1. For Data Cleaning
+  2. For Analysis
+  3. For Data Visualization
+  
+- SQL - Structured Query Language for Querying of Data
+- GitHub for Portfolio Building
