@@ -1,14 +1,29 @@
-# LITA_Hub_Documentation
+# LITA_Tech Hub Project
 
-### Project Title: Starhub Ventures Sales Analysis
+### Project Title: Sales Data Analysis Project
 
 ### Project Overview
 ---
-This Data Analysis project aims to generate insight into the sales performance of the Starhub projects over the last 10years. By analysing the various parameters in the data received, we seek to gather sufficient information that will be suffient to make reasonable decisions suitable to tell compelling and profound stories around our data from the information obtained and arrive at the best performance from that same data.
+This Sales Data Analysis project aims to generate insight into the sales performance of LITA_Tech Hub projects over 2years (2014-2015). By analysing the Revenue generated from Sales of various equipments and parts in different Stores located in differnt Markets in various Regions of Nigeria from the the data received. The analysis seeks to understand different revenue trends and sales performance in the various regions identified in the Data by calcultaing key metrics like: Region by Revenue, Region by Units Sold, Top 5 markets by Revenue, Revenue by Month and Bottom 5 Stores by Units Sold. Furthermore, it is focused on telling compelling stories around the outcomes obtained and arrive at the best performance from that same data.
 
 ### Data Sources
 ---
-The primary source of Data utilised is Data Sale.czv and this is an open source data that can be freely downloaded from a open source online such as kaggle or FRED or any other data repository site
+The primary source of Data utilised is Data Sale.czv and this is an open source data that can be freely downloaded from a open source online such as kaggle or any other data repository site. However this one was provided by LITA_Tech Africa Hub.
+
+### Data Collected
+---
+The following Data were collected:
+  1. Region: Part of Country where each Store is located
+  2. Market: The specific commercial hub within each Region where the each Store is located
+  3. Store: The Actual buying and selling point of operation where the sales Data was obtained
+  4. Trade Date: The date each sale was made and recorded
+  5. Fiscal Period: The 12-month and quarterly accounting period that each Trade Date was classed into for ease of reporting
+  6. Model: The type of product sold in the each Store
+  7. Line of Business (LOB): 
+  8. Day Category
+  9. Revenue
+  10. Units Sold
+  11. Transaction category
 
 ### Tools used
 ---
