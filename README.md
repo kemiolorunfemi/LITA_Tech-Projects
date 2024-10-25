@@ -19,46 +19,58 @@ The following Data were collected:
   4. Trade Date: The date each sale was made and recorded
   5. Fiscal Period: The 12-month and quarterly accounting period that each Trade Date was classed into for ease of reporting
   6. Model: The type of product sold in the each Store
-  7. Line of Business (LOB): 
-  8. Day Category
-  9. Revenue
-  10. Units Sold
-  11. Transaction category
-
-### Tools used
----
-- Microsoft Excel [Download Here](https://www.microsoft.com)
-  1. For Data Cleaning
-  2. For Analysis
-  3. For Data Visualization
-  
-- SQL - Structured Query Language for Querying of Data
-- GitHub for Portfolio Building
+  7. Line of Business (LOB): Type of Trade or business sales from the Store is categorised into
+  8. Day Category: The Day of the week when each Sale Data was obtained from Transactions in each Store
+  9. Revenue: Monetary output obtained from each Sale made in the differnt Stores across the Region
+  10. Units Sold: The quantity of items sold in aech store for which Revenue was generated
+  11. Transaction category: Different transaction group ratings such as low, medium and high
 
 ### Data Cleaning and Preparation
 ---
 In the initial phase of the Data cleaning and preparations, we perform the following action;
 1. Data loading and Inspection
 2. Handling missing variables
-3. Data Cleaning and formatting
+3. Removing duplicates
+4. Data Cleaning and formatting
 
 ### Exploratory Data Analysis
 ---
 EDA involved the exploring of the Data to answer some of the questions about the Data such as;
-- What  is the overall sales trend
-- Which Products are top sellers
-- What are the products on peak sales?
-  
-### Data Analysis
----
-This is where we include some basic lines of the code or queries or even some of the DAX expressions used during your analysis;
+- What is the Average Revenue by Region?
+- Which line of Business have the highest Revenue?
+- Which Region sold the highest Units?
+- What is the Average Revenue across the Regions?
+- Where are the top 5 Revenue generatingn Markets?
+- What are the top 10 Stores generating Revenue?
+- Which Store sold the least unit (Bottom 5 Stores by Units sold).
 
+### Data Analysis Tools used
+---
+This Dataset was analysed with the aid of the following tools:
+- Microsoft Excel [Download Here](https://www.microsoft.com)
+  1. For Data Cleaning
+  2. For Analysis
+  3. For Data Visualization
+Analysis via ,Microsoft Excel led to the creation of Pivot Tables used to organize, summarize, and Filter the Data set for ease of interpretation.
+Visuals like Bar Charts and Histograms were created for prompt understanding of key Sales trends
+  
+- SQL - Structured Query Language for Querying of Data like the following:
 ```SQL
-SELECT * FROM TABLE1
-WHERE CONDITION =TRUE
-```
+Create Database LITA_DB
+CREATE TABLE Employee (
+select * from Employee
+SELECT SUM(Salary) AS TOTALSALARY FROM Salary
+SELECT AVG(Salary) AS AVERAGESALARY FROM Salary
+SELECT COUNT(Staffid) AS EmployeeCount FROM EMPLOYEE
+SELECT COUNT(Staffid) AS NumberOfEmployee FROM Salary
+
+- GitHub for Portfolio Building for effective management and collaborations on my portfolio projects. This tool was used to put together and showcase my Data Analysis capabilities and create opportunities for collaborations
+
+- Power BI - a data visualization and business intelligence tool that converts data from different data sources to interactive dashboards and BI reports. Used to create reports and data visualizations on the Dataset. Visuals like Pie Charts, Bar Charts etc. were generated
+
 
 ### Data Visualization
 ---
+
 
 
