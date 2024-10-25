@@ -64,13 +64,5 @@ SELECT AVG(Salary) AS AVERAGESALARY FROM Salary
 SELECT COUNT(Staffid) AS EmployeeCount FROM EMPLOYEE
 SELECT COUNT(Staffid) AS NumberOfEmployee FROM Salary
 
-- GitHub for Portfolio Building for effective management and collaborations on my portfolio projects. This tool was used to put together and showcase my Data Analysis capabilities and create opportunities for collaborations
-
-- Power BI - a data visualization and business intelligence tool that converts data from different data sources to interactive dashboards and BI reports. Used to create reports and data visualizations on the Dataset. Visuals like Pie Charts, Bar Charts etc. were generated
-
-
-### Data Visualization
+### Data Visualization Outputs
 ---
-
-
-
