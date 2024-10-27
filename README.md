@@ -54,19 +54,16 @@ This Dataset was analysed with the aid of the following tools:
 Analysis via ,Microsoft Excel led to the creation of Pivot Tables used to organize, summarize, and Filter the Data set for ease of interpretation.
 Visuals like Bar Charts and Histograms were created for prompt understanding of key Sales trends
   
-- SQL - Structured Query Language for Querying of Data like the following:
-```SQL
-Create Database LITA_DB
-CREATE TABLE Employee (
-select * from Employee
-SELECT SUM(Salary) AS TOTALSALARY FROM Salary
-SELECT AVG(Salary) AS AVERAGESALARY FROM Salary
-SELECT COUNT(Staffid) AS EmployeeCount FROM EMPLOYEE
-SELECT COUNT(Staffid) AS NumberOfEmployee FROM Salary
+- SQL - Structured Query Language for data validation
 
 ### Data Visualization Outputs
 ---
-![image](https://github.com/user-attachments/assets/12f6d22b-2ef1-4abe-8b58-44854ee00967)
+1. Revenue by Region
+![Region by Revenue](https://github.com/user-attachments/assets/332d4a12-d8d3-4ae9-a042-02befc4abafd)
+
+
+
+
 
 
 
