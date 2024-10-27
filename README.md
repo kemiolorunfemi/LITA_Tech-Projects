@@ -66,3 +66,19 @@ SELECT COUNT(Staffid) AS NumberOfEmployee FROM Salary
 
 ### Data Visualization Outputs
 ---
+![image](https://github.com/user-attachments/assets/12f6d22b-2ef1-4abe-8b58-44854ee00967)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
