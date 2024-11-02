@@ -1,14 +1,14 @@
-# LITA_Tech Hub Project
+# LITA_Tech24 Project
 
 ### Project Title: Sales Data Analysis Project
 
 ### Project Overview
 ---
-This Sales Data Analysis project aims to generate insight into the sales performance of LITA_Tech Hub projects over 2years (2014-2015). By analysing the Revenue generated from Sales of various equipments and parts in different Stores located in differnt Markets in various Regions of Nigeria from the the data received. The analysis seeks to understand different revenue trends and sales performance in the various regions identified in the Data by calcultaing key metrics like: Region by Revenue, Region by Units Sold, Top 5 markets by Revenue, Revenue by Month and Bottom 5 Stores by Units Sold. Furthermore, it is focused on telling compelling stories around the outcomes obtained and arrive at the best performance from that same data.
+This Sales Data Analysis project aims to generate insight into the sales performance of LITA_Tech24 project over 2years (2014-2015). By analysing the Revenue generated from Sales of various equipments and parts in different Stores located in differnt Markets in various Regions of Nigeria from the the data received. The analysis seeks to understand different revenue trends and sales performance in the various regions identified in the Data by calcultaing key metrics like: Region by Revenue, Region by Units Sold, Top 5 markets by Revenue, Revenue by Month and Bottom 5 Stores by Units Sold. Furthermore, it is focused on telling compelling stories around the outcomes obtained and arrive at the best performance from that same data.
 
 ### Data Sources
 ---
-The primary source of Data utilised is Data Sale.czv and this is an open source data that can be freely downloaded from a open source online such as kaggle or any other data repository site. However this one was provided by LITA_Tech Africa Hub.
+The primary source of Data utilised is Data Sale.csv and this is an open source data that can be freely downloaded from a open source online such as kaggle or any other data repository site. However this one was provided by LITA_Tech24.
 
 ### Data Collected
 ---
@@ -51,7 +51,7 @@ This Dataset was analysed with the aid of the following tools:
   1. For Data Cleaning
   2. For Analysis
   3. For Data Visualization
-Analysis via ,Microsoft Excel led to the creation of Pivot Tables used to organize, summarize, and Filter the Data set for ease of interpretation.
+Analysis via Microsoft Excel led to the creation of Pivot Tables used to organize, summarize, and Filter the Data set for ease of interpretation.
 Visuals like Bar Charts and Histograms were created for prompt understanding of key Sales trends
   
 - SQL - Structured Query Language for data validation
