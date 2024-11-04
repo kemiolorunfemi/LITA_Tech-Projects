@@ -55,24 +55,14 @@ Analysis via Microsoft Excel led to the creation of Pivot Tables used to organiz
 Visuals like Bar Charts and Histograms were created for prompt understanding of key Sales trends
   
 - SQL - Structured Query Language for data validation
+- 
 
 ### Data Visualization Outputs
 ---
-1. Revenue by Region
+### 1. Revenue by Region
 ![Region by Revenue](https://github.com/user-attachments/assets/332d4a12-d8d3-4ae9-a042-02befc4abafd)
 
-
-
-
-
-
-
-
-
-
-
-
-
+### 2. 
 
 
 
