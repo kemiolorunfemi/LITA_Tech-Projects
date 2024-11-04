@@ -83,6 +83,10 @@ Visuals like Bar Charts and Histograms were created for prompt understanding of 
 ### Sales Data Analysis Report
 ![image](https://github.com/user-attachments/assets/d3d66e94-99a3-4955-b80e-8f9e4286ca52)
 
+###  Inference:
+---
+Overall Trends
+Total Revenue across the Regions expereienced a noticeable decline across the Regions from year 2014 to 2015. This suggests the market across the Region had some challenges that caused this decline. LITA_Tech needs to carry out an analysis of the market conditions across the Regions especially in the North East and South West as these Regions will be crucial locations for future growth of LITA_Tech.
 
 
 
