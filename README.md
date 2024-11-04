@@ -59,10 +59,34 @@ Visuals like Bar Charts and Histograms were created for prompt understanding of 
 
 ### Data Visualization Outputs
 ---
-### 1. Revenue by Region
+### 1. Region by Revenue
 ![Region by Revenue](https://github.com/user-attachments/assets/332d4a12-d8d3-4ae9-a042-02befc4abafd)
 
-### 2. 
+### 2. Region by Unit Sold
+![image](https://github.com/user-attachments/assets/9d41f92f-d87f-44c9-a868-a8b073754bd5)
+
+### 3. Model by Revenue
+![image](https://github.com/user-attachments/assets/9dac227a-18d3-4361-a6e4-50c7741a8dcc)
+
+### 4. Unit Sold by Line of Business
+![image](https://github.com/user-attachments/assets/559bb267-5fc0-4446-b9ff-b52852f87c63)
+
+### 5. Top 10 Stores by Revenue
+![image](https://github.com/user-attachments/assets/1564c528-2cf9-468e-8c30-02d83bdd845e)
+
+### 6. Top 5 Market by Revenue
+![image](https://github.com/user-attachments/assets/6fa27155-8a87-432e-90b8-ac9d4c18b3cd)
+
+### 7. Bottom 3 Stores by Units Sold
+![image](https://github.com/user-attachments/assets/40afaf71-a7e8-48be-b064-c9186205da8f)
+
+### Sales Data Analysis Report
+![image](https://github.com/user-attachments/assets/d3d66e94-99a3-4955-b80e-8f9e4286ca52)
+
+
+
+
+
 
 
 
